@@ -26,7 +26,7 @@ public class Tests {
                 .findFirst()
                 .orElse("");
         assertNotNull(titleLine);
-    }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
+    }
 
 
     @Test
